@@ -1,8 +1,8 @@
 const page = () => {
   return (
-    <div>
-      Welcome to next js 16
-    </div>
+    <h1>
+      Welcome to next Js 16
+    </h1>
   )
 }
 
