@@ -1,8 +1,11 @@
 const page = () => {
   return (
-    <h1>
-      Welcome to next Js 16
-    </h1>
+    <section>
+      <h1 className="text-center">
+       The Hub For Every Dev <br /> Event You Can't Miss
+      </h1>
+      <p className="text-center mt-5">Hackathons , Meetups, and Conferences, All in One Place</p>
+    </section>
   )
 }
 
